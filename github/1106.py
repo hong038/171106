@@ -1,1 +1,2 @@
-# 나의 첫 깃허브
+a, b = map(int, input().split())
+print(a+b)
